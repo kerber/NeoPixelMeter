@@ -3,10 +3,11 @@ NeoPixelMeter
 
 An Arduino library meant to power chained NeoPixels as meter gauges
 
-It was designed and tested with Adafruit's NeoPixel Ring - 16, though it should work with larger NeoPixel rings, sticks, and strips. Make sure you have [Adafruit's NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) installed.
+* **Demo**: [Single meter demo](https://www.youtube.com/watch?v=uW5UT9FoLpU)
+* **Sample Enclosure**: [Beer Tap Collar](https://tinkercad.com/things/5KOgV5w68OU)
+* **Requires**: [Adafruit's NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel)
 
-I 3D printed a housing with translucent PLA to fit around the base of the taps on my keg fridge.
-https://tinkercad.com/things/5KOgV5w68OU
+It was designed and tested with Adafruit's NeoPixel Ring - 16, though it should work with larger NeoPixel rings, sticks, and strips. The above housing was printed with translucent PLA to fit around the base of the taps on my keg fridge.
 
 It's still a little rough, so please feel free to branch and contribute back!
 
