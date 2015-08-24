@@ -124,7 +124,7 @@ void NeoPixelMeter::displayDraw()
               {
                 r = 200;
                 g = 200;
-                b = 2040;
+                b = 240;
               }
               else
               {
